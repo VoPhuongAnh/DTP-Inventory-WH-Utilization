@@ -1,15 +1,16 @@
-# DTP-Inventory-WH-Utilization
+# Inventory-WH-Utilization
 Analytics for Utilization Status of Warehouses of DTP
 
 # [Project Title: Inventory Utilization Tracking]
 
-## 📌 Business Overview (Up coming)
+## 📌 Business Overview 
 
-Problem: The company is experiencing a unreasonable 6% increase in Logistic Cost over the last 12 months.
+Problem: According to Finance Analyst, the company is experiencing a unreasonable 6% increase in Logistic Cost over the last 12 months. This does not match with the revenue growth trend and actual business situation. 
 
 Objective: To analyze database about warehouse operation and performance to support in identifing the root causes of the above mentioned increase and provide actionable recommendations for the DOB.
 
-## 📊 Key Insights (Up coming)
+## 📊 Key Insights (Still editing)
+
 Insight 1: A 15% correlation was found between [Variable A] and [Variable B].
 
 Insight 2: The [Specific Segment] accounts for 60% of total revenue but has the highest churn rate.
@@ -19,11 +20,12 @@ Insight 3: Seasonality peaks in [Month], suggesting a need for increased marketi
 Note: View the full Executive Summary for a deep dive into the business impact.
 
 ## 🛠️ The Data Stack (Up coming)
-Language: Python (Pandas for cleaning and ETL
 
-Visualization: PowerBI
+Promgramming Language: Python
 
-Database: ORACLE analytics for initial data extraction
+Visualization: PowerBI, Excel
+
+Database: .csv and .xlsx files extracted from ORACLE analytics
 
 Environment: Jupyter Notebooks / VS Code
 
